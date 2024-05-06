@@ -52,15 +52,7 @@ int main(void)
 
 
 
-
-
-
-
-
-
-
-
-##OUTPUT
+## OUTPUT
 <img width="550" alt="image" src="https://github.com/srishanth2006/Linux-Process-API-fork-wait-exec/assets/150319470/c5da2da2-2dc5-43bc-9c3b-556cbe884174">
 
 
@@ -107,7 +99,7 @@ exit(0);}
 
 
 
-##OUTPUT
+## OUTPUT
 
 <img width="550" alt="image" src="https://github.com/srishanth2006/Linux-Process-API-fork-wait-exec/assets/150319470/f24d7fd6-a2ce-4d38-9726-d3ebc9b97c0e">
 
